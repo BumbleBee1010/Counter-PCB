@@ -9,5 +9,8 @@ As I went through the process I made some mistakes and had to do some trouble sh
   </tr>
 </table>
 
+I have also done the pricing for the components I need but sadly it is slightly over budget by $2.61. However you should be aware that coupons and other discount promotions may lower this price below the $30 budget
+<img width="1187" height="960" alt="image" src="https://github.com/user-attachments/assets/7ac4753e-5d9f-48a4-b167-6bff3791e34e" />
+
 
 (a picture is worth a thousand words)
