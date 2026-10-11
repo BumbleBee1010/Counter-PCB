@@ -11,8 +11,10 @@ As I went through the process I made some mistakes and had to do some trouble sh
 ### PCB images
 <table>
   <tr>
-    <td valign="top"><img width="130%" alt="PCB Layout" src="https://github.com/user-attachments/assets/84f7fa62-bbac-49b8-b46f-18ca4e1d45ff" /></td>
-    <td valign="top"><img width="80%" alt="3D View" src="https://github.com/user-attachments/assets/1d7c1d7d-aa60-45ae-a731-312a447c9ab4" /></td>
+    <td valign="top"><img width="100%" alt="PCB Layout" src="https://github.com/user-attachments/assets/84f7fa62-bbac-49b8-b46f-18ca4e1d45ff" /></td>
+    <td valign="top"><img width="850" height="710" alt="image" src="https://github.com/user-attachments/assets/debdc19e-8499-46b1-b24e-9ef2da9c99c4" />
+
+  </td>
   </tr>
 </table>
 
