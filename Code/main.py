@@ -32,7 +32,7 @@ while True:
     display.fill(0)
     
     # Text headers
-    display.text("--- MACROPAD ---", 0, 0, 1)
+    display.text("--- COUNTER ---", 0, 0, 1)
     
     # Read switches (0 means pressed because of PULL_UP layout configuration)
     k1_pressed = (key1.value() == 0)
