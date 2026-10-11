@@ -18,7 +18,7 @@
 2. [2026-10-07 – I finished my PCB and  uploaded it as a gerber file into my github repository. I started to look at parts and pricing for my components. I found components like the microcontroller on Pi Hut but I sti](#2026-10-07-i-finished-my-pcb-and-uploaded-it-as-a-gerber-fil)
 3. [2026-10-09 – I wired the PCB at first but had some fails. in the end I rewired it using net labels and also upgraded the microcontroller to be more powerful in the same footprint. I also positioned the components](#2026-10-09-i-wired-the-pcb-at-first-but-had-some-fails-in-th)
 4. [2026-10-10 – I found components I could use in my project in order to get a rough idea of what it would cost. I created a estimated BOM for my project and updated the readme so it was more in depth/ detailed. I wa](#2026-10-10-i-found-components-i-could-use-in-my-project-in-o)
-5. [2026-10-11 – Work session](#2026-10-11-work-session)
+5. [2026-10-11 – # Finishing!](#2026-10-11-finishing)
 
 ## Design
 
@@ -64,8 +64,15 @@ I found components I could use in my project in order to get a rough idea of wha
 
 [Timelapse](https://lookout.hackclub.com/api/media/7b1761ed-cb5a-49a9-8aef-291ffb409d66/video.mp4)
 
-### 2026-10-11 – Work session
+### 2026-10-11 – # Finishing!
 
 **2.13h**
+
+# Finishing!
+I refined and finished my Github repository, making sure I had included everything that was required.
+### BOM
+I finished finding all the necessary parts for my project. I also did the BOM and managed to just stay within budget thankfully.
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/7f233f69e4f32d3d87e14e9bfc1bf96f0ab89bee94b1d7ee136db6583748b91b.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/5d48ac1c-ef27-4b12-b536-b2c8fd6a0115/video.mp4)
