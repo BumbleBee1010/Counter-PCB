@@ -28,6 +28,8 @@
 
 # Project Planning
 I was deciding what to use in my project an planning how to do it. As in what design and rough idea I want my PCB project to end up as. I also searched around with my phone on how to use the software and look up how the half life system and projects work. Also found necessary components for my project on easy EDA and started to wire them together.
+## Microcontroller
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/b3def102748549d42aef2d2e213104becc2b68eae73ec45b806ca4791b9e8214.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/86268d37-6785-4d05-94b7-eb1e5c25fc92/video.mp4)
 
