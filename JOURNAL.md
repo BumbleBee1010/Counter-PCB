@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> it can add or subtract and reset
+> there is buttons, an led and a screen all powered by a microcontroller.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
