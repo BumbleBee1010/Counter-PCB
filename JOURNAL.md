@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 15.75h | 5 |
+| Week 1 | Tier 1 | 15.7h | 5 |
 
 ## Contents
 
@@ -91,7 +91,7 @@ I also created a PCB folder with the raw EasyEDA files in and the Gerber files i
 
 ### 2026-10-11 – # Finishing!
 
-**4.12h**
+**4.07h**
 
 # Finishing!
 I refined and finished my Github repository, making sure I had included everything that was required.
