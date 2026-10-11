@@ -101,6 +101,9 @@ I finished finding all the necessary parts for my project. I also did the BOM an
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/7f233f69e4f32d3d87e14e9bfc1bf96f0ab89bee94b1d7ee136db6583748b91b.png)
 
+### Journals
+I also updated my journals to make sure they were clear, had images and had headings.
+
 [Timelapse](https://lookout.hackclub.com/api/media/5d48ac1c-ef27-4b12-b536-b2c8fd6a0115/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/26e60328-b99d-4fcf-bea4-7363654e5b67/video.mp4)
