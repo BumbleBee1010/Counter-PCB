@@ -62,7 +62,7 @@ Once I finished my PCB, and  uploaded it as a Gerber file into my Github reposit
 **2.5h**
 
 # PCB Final
-I wired the PCB at first but had some fails as previously mentioned. I finished that trouble shooting and placed the components on the PCB in place. When I was wiring it, I made the entire base plat a copper pour for GND.
+I wired the PCB at first but had some fails as previously mentioned. I finished that trouble shooting and placed the components on the PCB in place. When I was wiring it, I made the entire base plate a copper pour for GND.
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/fbaed7e47801225c1eed0e4289b446cb75bdcd5dff139ea7f6d286d0f1919a87.png)
 
