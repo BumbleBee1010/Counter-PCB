@@ -44,7 +44,7 @@ I was deciding what to use in my project an planning how to do it. As in what de
 # PCB drama
 At first I wired the PCB together but realised I had use a wrong component so then I started rewiring.
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/01dabc476f0b0f11d6fc8eb12ac4c858d7785713bdc6d015782d532df0b34bba.png)
-However in the end I gave up and used net labels instead, this did the job and I finished my PCB schematic and nearly the layout too.
+However in the end I gave up and used net labels instead, this did the job and I finished my PCB schematic and nearly the layout too. When I redid the schematic, I also upgraded the microcontroller from a Seeed Xiao esp32c3 to a c6.
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/86057b49054da16bd3b3cd30f661b5d45c2581a36785a8062fa8c0a4461f5b83.png)
 Once I finished my PCB and  uploaded it as a Gerber file into my Github repository. I also started to look at parts and pricing for my components.
 
