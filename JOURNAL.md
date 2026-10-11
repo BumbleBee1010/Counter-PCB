@@ -76,6 +76,7 @@ I found components I could use in my project in order to get a rough idea of wha
 
 # Finishing!
 I refined and finished my Github repository, making sure I had included everything that was required.
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/d9f9db049681e567036f08e6a2d7ac28bc380ae7c06e4155544367f7f462904c.png)
 ### BOM
 I finished finding all the necessary parts for my project. I also did the BOM and managed to just stay within budget thankfully.
 
