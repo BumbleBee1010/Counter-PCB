@@ -16,7 +16,7 @@
 
 1. [2026-10-07 – # Project Planning](#2026-10-07-project-planning)
 2. [2026-10-07 – # PCB drama](#2026-10-07-pcb-drama)
-3. [2026-10-09 – I wired the PCB at first but had some fails. in the end I rewired it using net labels and also upgraded the microcontroller to be more powerful in the same footprint. I also positioned the components](#2026-10-09-i-wired-the-pcb-at-first-but-had-some-fails-in-th)
+3. [2026-10-09 – # PCB Final](#2026-10-09-pcb-final)
 4. [2026-10-10 – I found components I could use in my project in order to get a rough idea of what it would cost. I created a estimated BOM for my project and updated the readme so it was more in depth/ detailed. I wa](#2026-10-10-i-found-components-i-could-use-in-my-project-in-o)
 5. [2026-10-11 – # Finishing!](#2026-10-11-finishing)
 
@@ -57,11 +57,18 @@ Once I finished my PCB and  uploaded it as a Gerber file into my Github reposito
 
 [Timelapse](https://lookout.hackclub.com/api/media/9cf20325-fbe1-4883-8768-b4d417abd2a6/video.mp4)
 
-### 2026-10-09 – I wired the PCB at first but had some fails. in the end I rewired it using net labels and also upgraded the microcontroller to be more powerful in the same footprint. I also positioned the components
+### 2026-10-09 – # PCB Final
 
 **2.5h**
 
-I wired the PCB at first but had some fails. in the end I rewired it using net labels and also upgraded the microcontroller to be more powerful in the same footprint. I also positioned the components in place on the PCB. I also had done the 5h progress reel in which I explained my PCB and troubleshooting process.
+# PCB Final
+I wired the PCB at first but had some fails as previously mentioned. I finished that trouble shooting and placed the components on the PCB in place. When I was wiring it, I made the entire base plat a copper pour for GND.
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/fbaed7e47801225c1eed0e4289b446cb75bdcd5dff139ea7f6d286d0f1919a87.png)
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/248dec9179608dbaa161af523b26d6a12889cbda2571932d27c75ebe2e08214c.png)
+
+I also had done the 5h progress reel in which I explained my PCB and troubleshooting process.
 
 [Timelapse](https://lookout.hackclub.com/api/media/0ea19c30-91cc-40f8-b36d-dcdaef705a60/video.mp4)
 
