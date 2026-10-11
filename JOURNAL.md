@@ -14,7 +14,7 @@
 
 ## Contents
 
-1. [2026-10-07 – I was deciding what to use in my project. As in what design and rough idea I want my PCB project to end up as. I also searched around with my phone on how to use the software and look up how the half](#2026-10-07-i-was-deciding-what-to-use-in-my-project-as-in-wh)
+1. [2026-10-07 – # Project Planning](#2026-10-07-project-planning)
 2. [2026-10-07 – I finished my PCB and  uploaded it as a gerber file into my github repository. I started to look at parts and pricing for my components. I found components like the microcontroller on Pi Hut but I sti](#2026-10-07-i-finished-my-pcb-and-uploaded-it-as-a-gerber-fil)
 3. [2026-10-09 – I wired the PCB at first but had some fails. in the end I rewired it using net labels and also upgraded the microcontroller to be more powerful in the same footprint. I also positioned the components](#2026-10-09-i-wired-the-pcb-at-first-but-had-some-fails-in-th)
 4. [2026-10-10 – I found components I could use in my project in order to get a rough idea of what it would cost. I created a estimated BOM for my project and updated the readme so it was more in depth/ detailed. I wa](#2026-10-10-i-found-components-i-could-use-in-my-project-in-o)
@@ -22,11 +22,12 @@
 
 ## Design
 
-### 2026-10-07 – I was deciding what to use in my project. As in what design and rough idea I want my PCB project to end up as. I also searched around with my phone on how to use the software and look up how the half
+### 2026-10-07 – # Project Planning
 
 **2.62h**
 
-I was deciding what to use in my project. As in what design and rough idea I want my PCB project to end up as. I also searched around with my phone on how to use the software and look up how the half life system and projects work. Also found necessary components for my project on easy EDA and started to wire them together.
+# Project Planning
+I was deciding what to use in my project an planning how to do it. As in what design and rough idea I want my PCB project to end up as. I also searched around with my phone on how to use the software and look up how the half life system and projects work. Also found necessary components for my project on easy EDA and started to wire them together.
 
 [Timelapse](https://lookout.hackclub.com/api/media/86268d37-6785-4d05-94b7-eb1e5c25fc92/video.mp4)
 
