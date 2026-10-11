@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-07 – # Project Planning](#2026-10-07-project-planning)
-2. [2026-10-07 – I finished my PCB and  uploaded it as a gerber file into my github repository. I started to look at parts and pricing for my components. I found components like the microcontroller on Pi Hut but I sti](#2026-10-07-i-finished-my-pcb-and-uploaded-it-as-a-gerber-fil)
+2. [2026-10-07 – # PCB drama](#2026-10-07-pcb-drama)
 3. [2026-10-09 – I wired the PCB at first but had some fails. in the end I rewired it using net labels and also upgraded the microcontroller to be more powerful in the same footprint. I also positioned the components](#2026-10-09-i-wired-the-pcb-at-first-but-had-some-fails-in-th)
 4. [2026-10-10 – I found components I could use in my project in order to get a rough idea of what it would cost. I created a estimated BOM for my project and updated the readme so it was more in depth/ detailed. I wa](#2026-10-10-i-found-components-i-could-use-in-my-project-in-o)
 5. [2026-10-11 – # Finishing!](#2026-10-11-finishing)
@@ -35,11 +35,16 @@ I was deciding what to use in my project an planning how to do it. As in what de
 
 [Timelapse](https://lookout.hackclub.com/api/media/e8b2d749-b45b-4885-95ea-7e5bebf34565/video.mp4)
 
-### 2026-10-07 – I finished my PCB and  uploaded it as a gerber file into my github repository. I started to look at parts and pricing for my components. I found components like the microcontroller on Pi Hut but I sti
+### 2026-10-07 – # PCB drama
 
 **2.88h**
 
-I finished my PCB and  uploaded it as a gerber file into my github repository. I started to look at parts and pricing for my components. I found components like the microcontroller on Pi Hut but I still need to find others
+# PCB drama
+At first I wired the PCB together but realised I had use a wrong component so then I started rewiring.
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/01dabc476f0b0f11d6fc8eb12ac4c858d7785713bdc6d015782d532df0b34bba.png)
+However in the end I gave up and used net labels instead, this did the job and I finished my PCB schematic and nearly the layout too.
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/86057b49054da16bd3b3cd30f661b5d45c2581a36785a8062fa8c0a4461f5b83.png)
+Once I finished my PCB and  uploaded it as a Gerber file into my Github repository. I also started to look at parts and pricing for my components.
 
 [Timelapse](https://lookout.hackclub.com/api/media/b86879fd-2092-4f04-9e13-4f5cb1130757/video.mp4)
 
