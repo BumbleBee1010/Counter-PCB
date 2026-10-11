@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 14.65h | 5 |
+| Week 1 | Tier 1 | 14.75h | 5 |
 
 ## Contents
 
@@ -24,7 +24,7 @@
 
 ### 2026-10-07 – # Project Planning
 
-**2.62h**
+**2.72h**
 
 # Project Planning
 I was deciding what to use in my project and planning how to do it. As in what design and rough idea I want my PCB project to end up as. I also searched around with my phone on how to use the software and look up how the half life system and projects work. Also found necessary components for my project on easy EDA and started to wire them together.
