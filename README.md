@@ -25,5 +25,3 @@ I have also done some basic MicroPython code which show where each GPIO pin is c
 I have also done the pricing for the components and it put it slightly below the budget. However coupons and other discount promotions may lower this more.
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/b62f9759-7daf-4c59-94bf-288b6eaa8abe" />
 
-
-(a picture is worth a thousand words)
