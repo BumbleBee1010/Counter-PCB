@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 14.4h | 5 |
+| Week 1 | Tier 1 | 14.65h | 5 |
 
 ## Contents
 
@@ -91,7 +91,7 @@ I also created a PCB folder with the raw EasyEDA files in and the Gerber files i
 
 ### 2026-10-11 – # Finishing!
 
-**2.87h**
+**3.12h**
 
 # Finishing!
 I refined and finished my Github repository, making sure I had included everything that was required.
@@ -103,6 +103,11 @@ I finished finding all the necessary parts for my project. I also did the BOM an
 
 ### Updating information
 I also updated my journals to make sure they were clear, had images and had headings. I also added a more in depth description of my Counter project and included my goal for the project
+
+### BOM .cvs
+I added a BOM .csv, showing the component, description, quantity, price per unit, total and link to the component.
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/91HF73JHUwEio9xtrq7tRJvOd8KiT0lT/24e685c08efd1321b607f48abf318720a791be8d717a74b5d4e1298321eb6e25.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/5d48ac1c-ef27-4b12-b536-b2c8fd6a0115/video.mp4)
 
