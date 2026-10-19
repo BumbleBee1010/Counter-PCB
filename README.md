@@ -25,10 +25,6 @@ I have also done some basic MicroPython code which show where each GPIO pin is c
 I have also done the pricing for the components and it put it slightly below the budget. However coupons and other discount promotions may lower this more.
 
 
-| Week | Tier | Parts funding |
-| --- | --- | --- |
-| Week 1 | Tier 1 | $30.00 |
-
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
 | [Seeed Xiao ESP32C6](https://www.aliexpress.com/item/1005007427033011.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.1.7529uxnOuxnOHp&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=3bd4908f-a9a1-4f8a-a4a8-6fa9eec3499e&_t=gps-id%3ApcDetailTopMoreOtherSeller%2Cscm-url%3A1007.40050.354490.0%2Cpvid%3A3bd4908f-a9a1-4f8a-a4a8-6fa9eec3499e%2Ctpp_buckets%3A668%232846%238113%231998&pdp_ext_f=%7B%22order%22%3A%222756%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21USD%219.12%211.35%21%21%219.12%211.35%21%4021038b2f17917071631736092e0d6d%2112000040716079484%21rec%21GB%21%21ABXZ%211%210%21n_tag%3A-29910%3Bd%3A4b612a34%3Bm03_new_user%3A-29895%3BpisId%3A5000000218634824&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005007427033011%7C_p_origin_prod%3A) | To control input and output signals from buttons and display | 1 | $9.12 | $9.12 | [AliExpress](https://www.aliexpress.com/item/1005007427033011.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.1.7529uxnOuxnOHp&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=3bd4908f-a9a1-4f8a-a4a8-6fa9eec3499e&_t=gps-id%3ApcDetailTopMoreOtherSeller%2Cscm-url%3A1007.40050.354490.0%2Cpvid%3A3bd4908f-a9a1-4f8a-a4a8-6fa9eec3499e%2Ctpp_buckets%3A668%232846%238113%231998&pdp_ext_f=%7B%22order%22%3A%222756%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21USD%219.12%211.35%21%21%219.12%211.35%21%4021038b2f17917071631736092e0d6d%2112000040716079484%21rec%21GB%21%21ABXZ%211%210%21n_tag%3A-29910%3Bd%3A4b612a34%3Bm03_new_user%3A-29895%3BpisId%3A5000000218634824&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005007427033011%7C_p_origin_prod%3A) |
@@ -42,4 +38,6 @@ I have also done the pricing for the components and it put it slightly below the
 | **Tax & shipping** | — | — | — | **$0.00** | — |
 | **Total** | — | — | — | **$28.03** | — |
 
-$1.97 left of the tier's funding.
+$1.97 left of the $30 budget.
+
+This project is for Hack Club Half life program, Week 1 (PCBs).
