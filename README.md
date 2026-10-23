@@ -26,7 +26,7 @@ As I went through the process I made some mistakes and had to do some trouble sh
 I have also done some basic MicroPython code which show where each GPIO pin is connected to and write some basic text to the screen. I did some software logic which configured the button inputs and used the sh1106 driver to be able to display basic text. I used Micro Pico libary on VSCode.
 
 ### BOM
-I have also done the pricing for the components and it put it slightly below the budget. However coupons and other discount promotions may lower this more.
+I have also done the pricing for allthe components and it totals to within the budget. However coupons and other discount promotions may lower this more.
 
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
