@@ -42,5 +42,3 @@ I have also done the pricing for the components and it put it slightly below the
 | **Total** | — | — | — | **$28.03** | — |
 
 $1.97 left of the $30 budget.
-
-This project is for Hack Club Half life program, Week 1 (PCBs).
