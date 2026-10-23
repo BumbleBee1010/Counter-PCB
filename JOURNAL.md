@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-11T10:36:25.366Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuwuywni0bfy01ospgpmhv95). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > My Counter PCB project uses a  Seeed Xiao ESP32 C6 as it's powerhouse, a 1.3 inch I2C OLED sh1106 display, 4 MX switches, a 5mm round LED and a 1k resistor for it. My goal for the project is for it to be a counter.  The two centre buttons adjacent to each other will be for + and -  and the right hand side button will be for reset and the left hand side button will be used to change the increment of addition/ subtraction.
 
