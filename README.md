@@ -5,8 +5,11 @@ Counter PCB is a project that sits on a custom designed PCB. The project involve
 My goal for the project is for it to act a counter. The two centre MX switches adjacent to each other will be for + and -  and the right hand side MX switch will be for reset and the left hand side MX switch will be used to change the increment of addition/ subtraction. The counting and outputs will all be displayed on the screen.
 <img width="1025" height="720" alt="image" src="https://github.com/user-attachments/assets/78e27134-b328-4e57-8541-94cb9fadcfa6" />
 
-### Purpose 
+### What is its purpose?
 Counter PCB will primarily be used as an electronic counter. However because it is controlled by an ESP32 C6 it could have other uses.
+
+### Why does it exist?
+My Counter PCB projects exists as a electronic version of those tally counters. The use of electronics also adds a certain level of smartness to the idea.
 
 ### Wiring
 My project started with learning how to use EasyEDA and PCB designing. The sh1106 OLED I2C display is connected to pin d4 and d5 which hands I2C management in the microcontroller. Each MX switch is connected to its own gpio port, and ground. the LED is connected to  resistor to make sure the power doesn't spike and the LED burn out. At first when I was wiring, I uses actual wires, however when I added more and more components it got slighlty messy so I resorted to net labels.
