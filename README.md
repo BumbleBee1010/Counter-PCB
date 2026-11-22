@@ -47,6 +47,4 @@ I have also done the pricing for allthe components and it totals to within the b
 | **Aliexpress coupons** | — | — | — | **-$4.00** | — |
 | **JLCPCB total** | — | — | — | **$1.80** | — |
 | **JLCPCB total** | — | — | — | **$25.24** | — |
-| **Total** | — | — | — | **$28.03** | — |
-
-$1.97 left of the $30 budget.
+| **Total** | — | — | — | **$27.04** | — |
