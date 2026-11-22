@@ -45,6 +45,6 @@ I have also done the pricing for all the components and it totals to within the 
 | **Tax & shipping** | — | — | — | **$5.70** | — |
 | **JLCPCB Coupons** | — | — | — | **-$7.90** | — |
 | **Aliexpress coupons** | — | — | — | **-$4.00** | — |
-| **JLCPCB total** | — | — | — | **$1.80** | — |
-| **JLCPCB total** | — | — | — | **$25.24** | — |
+| **JLCPCB total** | — | — | — | (**$1.80**) | — |
+| **JLCPCB total** | — | — | — | (**$25.24**) | — |
 | **Total** | — | — | — | **$27.04** | — |
